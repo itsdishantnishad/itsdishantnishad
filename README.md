@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @itsdishantnishad
-- 👀 I’m interested in ..blockchain .
+- 👀 I’m interested in ..DSA .
 - 🌱 I’m currently learning ...web developement
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
