@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @itsdishantnishad
 - 👀 I’m interested in ..DSA .
-- 🌱 I’m currently working in Numetry Technology as Intern 
+- 🌱 I’m currently working in Docket Care System as a Backend Developer (Node.js, Express.js) 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 itsdishantnishad@gmail.com
 
 <!---
 itsdishantnishad/itsdishantnishad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
